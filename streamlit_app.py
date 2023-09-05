@@ -1,5 +1,7 @@
 import streamlit
 
+ <!-- can alias streamlit as st -->
+
 streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
